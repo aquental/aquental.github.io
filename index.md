@@ -13,3 +13,8 @@ Multi-skilled product and project manager with excellent supervisory and technic
   EAM – Escola de Administração Mauá (2002)
 
 ### Courses
+### Idioms<br>
+Portuguese : _native_<br>
+English : _professional proficiency_<br>
+Spenish : basic<br>
+French : basic
