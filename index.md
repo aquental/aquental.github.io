@@ -6,7 +6,6 @@ Multi-skilled product and project manager with excellent supervisory and technic
 
 ### Work Experience
 ### Academic Qualifications
-### Courses
 
  **Master in Business Information System**<br>
   PUC/SP – Pontífice Universitária Católica (2005)<br>
@@ -14,3 +13,5 @@ Multi-skilled product and project manager with excellent supervisory and technic
   
  **Business Administration**<br>
   EAM – Escola de Administração Mauá (2002)
+
+### Courses
