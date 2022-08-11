@@ -8,8 +8,7 @@ Multi-skilled product and project manager with excellent supervisory and technic
 ### Academic Qualifications
 ### Courses
 
- **Master in Business Information System**
- 
+ **Master in Business Information System**<br>
   PUC/SP – Pontífice Universitária Católica (2005)
   
   [Monograph](http://mbis.pucsp.br/biblioteca/quental_resumo.php): "Adoption and Implementation of RFID, a supply chain managerial view"
