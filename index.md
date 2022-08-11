@@ -9,10 +9,8 @@ Multi-skilled product and project manager with excellent supervisory and technic
 ### Courses
 
  **Master in Business Information System**<br>
-  PUC/SP – Pontífice Universitária Católica (2005)
-  
+  PUC/SP – Pontífice Universitária Católica (2005)<br>
   [Monograph](http://mbis.pucsp.br/biblioteca/quental_resumo.php): "Adoption and Implementation of RFID, a supply chain managerial view"
   
- **Business Administration**
- 
+ **Business Administration**<br>
   EAM – Escola de Administração Mauá (2002)
