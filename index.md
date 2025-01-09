@@ -1,4 +1,4 @@
-## Senior Project Manager
+## Senior Product Manager
 
 ### Personal Summary
 
