@@ -2,7 +2,7 @@
         "name": "SpellGirl",
         "symbol": "SPELL",
         "description": "Kobeni as a spell girl",
-        "image": "https://aquental.github.io/img/kobeni.png",
+        "image": "https://aquental.github.io/img/kobeni.jpeg",
         "animation_url": "https://aquental.github.io/audio/energetic.mp3",
         "attributes": [
                 {
@@ -46,11 +46,11 @@
                 "category": "audio",
                 "files": [
                         {
-                                "uri": "https://aquental.github.com/img/kobeni.jpg",
+                                "uri": "https://aquental.github.io/img/kobeni.jpeg",
                                 "type": "image/jpeg"
                         },
                         {
-                                "uri": "https://aquental.github.com/audio/energetic.mp3",
+                                "uri": "https://aquental.github.io/audio/energetic.mp3",
                                 "type": "audio/mpeg"
                         }
                 ]
