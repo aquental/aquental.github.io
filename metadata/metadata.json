@@ -2,8 +2,8 @@
         "name": "SpellGirl",
         "symbol": "SPELL",
         "description": "Kobeni as a spell girl",
-        "image": "https://xxx/img/kobeni.png",
-        "animation_url": "https://xxx/audio/energetic.mp3",
+        "image": "https://aquental.github.io/img/kobeni.png",
+        "animation_url": "https://aquental.github.io/audio/energetic.mp3",
         "attributes": [
                 {
                         "trait_type": "Gender",
@@ -23,7 +23,7 @@
                 },
                 {
                         "trait_type": "Hair",
-                        "value": "Long Purple"
+                        "value": "Long Black"
                 },
                 {
                         "trait_type": "Eyes",
@@ -31,7 +31,7 @@
                 },
                 {
                         "trait_type": "Mouth",
-                        "value": "Pink"
+                        "value": "Light Gray"
                 },
                 {
                         "trait_type": "Clothing",
@@ -39,18 +39,18 @@
                 },
                 {
                         "trait_type": "Background",
-                        "value": "Purple"
+                        "value": "White"
                 }
         ],
         "properties": {
                 "category": "audio",
                 "files": [
                         {
-                                "uri": "https://pbs.twimg.com/media/F3DRtPUb0AEPJRi?format=jpg&name=large",
+                                "uri": "https://aquental.github.com/img/kobeni.jpg",
                                 "type": "image/jpeg"
                         },
                         {
-                                "uri": "https://storage.googleapis.com/sw-test-2023/sounds%2F2024-02-23T16%3A05%3A29.964Z_MeikoNakahara-Fantasy.mp3",
+                                "uri": "https://aquental.github.com/audio/energetic.mp3",
                                 "type": "audio/mpeg"
                         }
                 ]
