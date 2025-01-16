@@ -2,7 +2,7 @@
         "name": "AQuental oriental rug",
         "symbol": "AQ",
         "description": "my oriental rug",
-        "image": "https://aquental.github.io/img/rug.jpeg",
+        "image": "https://aquental.github.io/img/aquental-rug.jpeg",
         "attributes": [
                 {
                         "trait_type": "rug",
@@ -17,7 +17,7 @@
                 "category": "audio",
                 "files": [
                         {
-                                "uri": "https://aquental.github.io/img/rug.jpeg",
+                                "uri": "https://aquental.github.io/img/aquental-rug.jpeg",
                                 "type": "image/jpeg"
                         },
                         {
