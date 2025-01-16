@@ -1,1 +1,29 @@
-zzz
+{
+        "name": "AQuental oriental rug",
+        "symbol": "AQ",
+        "description": "my oriental rug",
+        "image": "https://aquental.github.io/img/rug.jpeg",
+        "attributes": [
+                {
+                        "trait_type": "rug",
+                        "value": "1"
+                },
+                {
+                        "trait_type": "Creator",
+                        "value": "aquental"
+                },
+        ],
+        "properties": {
+                "category": "audio",
+                "files": [
+                        {
+                                "uri": "https://aquental.github.io/img/rug.jpeg",
+                                "type": "image/jpeg"
+                        },
+                        {
+                                "uri": "https://aquental.github.io/audio/energetic.mp3",
+                                "type": "audio/mpeg"
+                        }
+                ]
+        }
+}
